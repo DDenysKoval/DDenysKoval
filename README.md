@@ -10,7 +10,7 @@ HTMLS/CSS | JavaScript | TypeScript | React | Next.js | Node.js | Express.js
 
 💻 Featured Projects  
 
-- [Podorozhnuky Front](https://github.com/DDenysKoval/Travellers_Front)([Podorozhnuky Backend](https://github.com/DDenysKoval/Travellers_Back) – Web service where you can share your stories and get inspiration for new adventures. Full stack project with adaptive design and advanced routing.
+- [Podorozhnuky Front](https://github.com/DDenysKoval/Travellers_Front),[Podorozhnuky Backend](https://github.com/DDenysKoval/Travellers_Back) – Web service where you can share your stories and get inspiration for new adventures. Full stack project with adaptive design and advanced routing.
 
 - [NoteHub](https://github.com/DDenysKoval/NoteHub) – Note Hub it’s an app to manage your tasks. Create, edit, delete task function. Protection of private routes. Sign-in/Sign-up needed to start.
 
