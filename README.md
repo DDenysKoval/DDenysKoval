@@ -4,7 +4,7 @@ Motivated and detail-oriented Junior Fullstack Developer with hands-on experienc
 
 🧰 Tech Stack  
 
- - HTMLS
+ - HTML
  - CSS
  - JavaScript
  - TypeScript
