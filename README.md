@@ -16,6 +16,9 @@ Motivated and detail-oriented Junior Fullstack Developer with hands-on experienc
 
 💻 Featured Projects  
 
+- [LearnLingo](https://learn-lingo-sage.vercel.app/) - LearnLingo is a web application designed to help users practice foreign languages through interactive exercises, AI-powered conversations, and progress tracking. The project is built as a modern frontend with the potential to integrate backend functionality.
+  <img width="1351" height="771" alt="image" src="https://github.com/user-attachments/assets/64941dc7-9091-4b57-96a4-821596d60ebb" />
+
 - [Podorozhnuky Front](https://github.com/DDenysKoval/Travellers_Front),[Podorozhnuky Back](https://github.com/DDenysKoval/Travellers_Back) – Web service where you can share your stories and get inspiration for new adventures. Full stack project with adaptive design and advanced routing.
   <img width="1435" height="892" alt="image" src="https://github.com/user-attachments/assets/74ea3397-3463-455c-a5e6-df754121913b" />
 
