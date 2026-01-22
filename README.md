@@ -5,14 +5,10 @@ Motivated and detail-oriented Junior Fullstack Developer with hands-on experienc
 🧰 Tech Stack  
 
  - HTML
- - CSS
- - JavaScript
- - TypeScript
- - React
- - Next.js
- - Node.js
- - Express.js
- - Postman
+ - CSS/SASS/Tailwind
+ - JavaScript/TypeScript
+ - React/Next.js
+ - Node.js/Express.js/Postman
 
 💻 Featured Projects  
 
