@@ -1,11 +1,11 @@
 👋 Hello, I'm Denys Koval
 
-Motivated and detail-oriented Junior Fullstack Developer with hands-on experience in building responsive, user-friendly web applications using HTML, CSS, JavaScript/TypeScript, React, Next.js, and Node.js. Skilled in both frontend and backend development, with a strong understanding of modern web standards, REST API, and component-based architecture. Eager to grow within a collaborative development team and contribute to meaningful, real-world projects using best practices and continuous learning.
+Motivated and detail-oriented Junior Fullstack Developer with hands-on experience in building responsive, user-friendly web applications using HTML, CSS, SCSS, Tailwind, JavaScript/TypeScript, React, Next.js, and Node.js. Skilled in both frontend and backend development, with a strong understanding of modern web standards, REST API, and component-based architecture. Eager to grow within a collaborative development team and contribute to meaningful, real-world projects using best practices and continuous learning.
 
 🧰 Tech Stack  
 
  - HTML
- - CSS/SASS/Tailwind
+ - CSS/SCSS/Tailwind
  - JavaScript/TypeScript
  - React/Next.js
  - Node.js/Express.js/Postman
